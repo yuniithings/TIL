@@ -8,7 +8,7 @@ $ git clone [clone git repository directory]
 $ cd [clone directory root]
 ```
 
-여기서 [clone git repository directory] 는 https://github.com/yuniithings/TIL.git이 되며,
+여기서 [clone git repository directory] 는 https://github.com/yuniithings/TIL.git이 되며,<br/>
 [clone directory root]는 TIL 이 됩니다.
 
 ```bash
@@ -23,8 +23,8 @@ $ cd TIL
 $ git add [add directory | file]
 ```
 
-여기서 [add directory | file]는 Git이 됩니다.
-directory를 add할 경우 directory 하위에 파일이 존재해야 합니다.
+여기서 [add directory | file]는 Git이 됩니다.<br/>
+directory를 add할 경우 directory 하위에 파일이 존재해야 합니다.<br/>
 아래의 예제코드는 폴더와 파일 생성 샘플까지 작성하였습니다.
 
 ```bash
@@ -32,7 +32,7 @@ directory를 add할 경우 directory 하위에 파일이 존재해야 합니다.
 $ mkdir Git
 $ vi Git/README.md
 ```
-vi editor의 `:wq` 명령어로 빈 파일을 저장후 vi editor를 종료합니다.
+vi editor의 `:wq` 명령어로 빈 파일을 저장후 vi editor를 종료합니다.<br/><br/>
 
 Git Repository에 새로운 변경사항을 추가합니다!
 ```bash
@@ -40,8 +40,8 @@ Git Repository에 새로운 변경사항을 추가합니다!
 $ git add Git
 ```
 
-현재 Directory 및 하위의 Directory의 모든 변경사항을 추가하고 싶은 경우엔 어떡할까요?
-위의 예제코드를 모두 번거롭게 실행할 필요가 없습니다!
+현재 Directory 및 하위의 Directory의 모든 변경사항을 추가하고 싶은 경우엔 어떡할까요?<br/>
+위의 예제코드를 모두 번거롭게 실행할 필요가 없습니다!<br/>
 ```bash
 $ git add .
 ```
@@ -66,7 +66,7 @@ Commit시 메시지를 작성할 때는 `-m` 옵션을 추가합니다.
 $ git commit -m [message]
 ```
 
-여기서 [message]는 Update README.md 가 됩니다.
+여기서 [message]는 Update README.md 가 됩니다.<br/>
 주의할 점은 [message]는 항상 따옴표로 감싸주셔야 합니다.
 ```bash
 # example
@@ -79,7 +79,7 @@ $ git commit -m "Update README.md"
 $ git push origin master
 ```
 
-다른 branch에 Push하고싶다면 master를 다른 branch name으로 바꿔주세요!
+다른 branch에 Push하고싶다면 master를 다른 branch name으로 바꿔주세요!<br/><br/>
 
 신기하게 Push 명령어를 보니 Pull 명령어도 알것같네요.
 ```bash
