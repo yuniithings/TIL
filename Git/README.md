@@ -48,7 +48,10 @@ $ git add .
 
 현재 Directory 및 하위의 Directory의 모든 변경사항이 추가되었습니다.
 
+```
+이 항목들은 제가 조금 더 확인해볼게요.
 `git add`명령어는 나의 Git Repository에 Create와 Delete가 일어났을 경우에만 사용합니다.
+```
 파일의 Update일 경우엔 Commit과 Push를 바로 사용할 수 있습니다. 그런데 Commit과 Push는 어떻게 사용하냐구요? 다음 항목에서 설명합니다.
 
 ## Git 저장소에 Commit 하기
