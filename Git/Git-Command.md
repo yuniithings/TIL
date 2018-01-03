@@ -17,7 +17,7 @@ $ git clone https://github.com/yuniithings/TIL.git
 $ cd TIL
 ```
 
-### Git 저장소에 [Direcotry | File] 의 변경사항을 추가하기
+### Git 저장소에 [Direcotry | File] 의 변경사항을 Add하기
 
 ```bash
 $ git add [add directory | file]
