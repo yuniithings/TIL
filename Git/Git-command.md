@@ -1,4 +1,4 @@
-# Git-command
+# Git-Command
 Git 명령어를 작성합니다.
 
 ## Git 저장소를 clone 하기
