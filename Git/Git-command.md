@@ -89,6 +89,8 @@ $ git pull origin master
 ---
 다음에 작성할 항목들이니 돌아가주세요.
 
+## Git Commit Revert 하기
+
 ## Git Branch 생성하기
 
 ## Git Branch 변경하기
