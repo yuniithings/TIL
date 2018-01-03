@@ -8,8 +8,8 @@ $ git clone [clone git repository directory]
 $ cd [clone directory root]
 ```
 
-여기서 [clone git repository directory] 는 https://github.com/yuniithings/TIL.git이 되며,<br/>
-[clone directory root]는 TIL 이 됩니다.
+여기서 `[clone git repository directory]` 는 `https://github.com/yuniithings/TIL.git`이 되며,<br/>
+`[clone directory root]`는 `TIL` 이 됩니다.
 
 ```bash
 # exmaple
@@ -23,7 +23,7 @@ $ cd TIL
 $ git add [add directory | file]
 ```
 
-여기서 [add directory | file]는 Git이 됩니다.<br/>
+여기서 `[add directory | file]`는 `Git`이 됩니다.<br/>
 directory를 add할 경우 directory 하위에 파일이 존재해야 합니다.<br/>
 
 아래의 예제코드는 폴더와 파일 생성 샘플까지 작성하였습니다.
@@ -68,8 +68,8 @@ Commit시 메시지를 작성할 때는 `-m` 옵션을 추가합니다.
 $ git commit -m [message]
 ```
 
-여기서 [message]는 Update README.md 가 됩니다.<br/>
-주의할 점은 [message]는 항상 따옴표로 감싸주셔야 합니다.
+여기서 `[message]`는 `Update README.md` 가 됩니다.<br/>
+주의할 점은 `[message]`는 항상 따옴표로 감싸주셔야 합니다.
 ```bash
 # example
 $ git commit -m "Update README.md"
