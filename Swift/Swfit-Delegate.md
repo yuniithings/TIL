@@ -8,7 +8,7 @@
 
 `control + drag`로 노란원의 `ViewController`로 드래그하여 `Outlet-delegate`를 선택합니다.
 
-![delegate](https://github.com/yuniithings/TIL/blob/master/Swift/images/Swift-delegate01.png?raw=true)
+![delegate](https://github.com/yuniithings/TIL/blob/master/Swift/images/Swift-Delegate01.png?raw=true)
 
 스토리보드와 연결된 `ViewController`로 돌아가 함수를 작성합니다.<br/>
 `textField`에 값을 입력 시 `nil`일 경우 허용하지 않는 함수 예제입니다.
