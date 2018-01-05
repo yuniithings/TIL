@@ -4,9 +4,9 @@ Xcode와 관련된 tip을 기록합니다.
 
 ## Xcode 2가지 버전 이상 설치하기
 [Xcode 버전별 다운로드](https://developer.apple.com/download/more/)<br/>
-위의 링크로 접속 후 원하는 버전을 검색하여 설치한다.
+위의 링크로 접속 후 원하는 버전을 검색하여 설치합니다.
 
-이후 applications 폴더로 이동 후 이름을 변경해준다.
+이후 applications 폴더로 이동 후 이름을 변경합니다.
 
 ## Xcode 옛날버전에 iOS 버전 설정하기
 
