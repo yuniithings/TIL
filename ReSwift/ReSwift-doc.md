@@ -32,6 +32,7 @@ ReSwift 폴더 내의 전반적인 내용과 `.md` 파일로 담기에는 짧은
     * User에게 정보를 받음
     * View Rendering
 
+---
 
 ## Redux를 적용하게 된 7가지 이유.
 
