@@ -8,7 +8,7 @@ Python django Study Project
 
 
 ### django
-- 2019.07.25
+- **2019.07.25**
 - djanog-setting.md
 - django-middleware.md
 - django-orm.md
@@ -17,11 +17,10 @@ Python django Study Project
 
 
 ### old-SERVER.md
-- 2017.12.06
+- **2017.12.06**
 - 설치한 내용을 정리함
 - django 셋팅방법 기록중
-
-- 2019.07.25
+- **2019.07.25**
 - old-SERVER.md로 변경
 - 더이상 사용하지 않음
 - 새로운 문서 `django-setting.md` 생성
