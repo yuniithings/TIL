@@ -1,4 +1,4 @@
-# Python-yuniiThings
+# Python-django-yuniithings
 Python django Study Project
 
 - [django 웹사이트](https://github.com/yuniithings/yuniithings.com)
