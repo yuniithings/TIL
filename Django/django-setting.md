@@ -87,8 +87,8 @@ yum으로 설치한 apache의 경우, 기본 conf 파일에 conf.d 폴더의 모
 **한글 파일 경로 읽을수 있게 설정하기**
 `$ sudo vi /etc/sysconfig/httpd`에 아래 내용 추가
 ```bash
-export LANG=‘en_US.UTF-8’
-export LC_ALL=‘en_US.UTF-8’
+export LANG='en_US.UTF-8'
+export LC_ALL='en_US.UTF-8'
 ```
 
 [wsgi.py](https://github.com/yuniithings/yuniithings.com/blob/master/adminApp/adminApp/wsgi.py)는 해당 repository의 파일처럼 설정해주세요. `adminApp.settings` 를 `[projectname].settings`로 바꿔주기만 하면 됩니다.
